@@ -1,0 +1,13 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+.poem{
+    max-width: 400px;
+    margin: auto;
+}
+.author{
+    font-style: italic;
+}
+.text{
+    line-height: 200%
+}
